@@ -1,0 +1,15 @@
+# Handle line endings automatically
+* text=auto
+
+# Ensure Python scripts use LF
+*.py text eol=lf
+
+# Ensure YAML and Markdown files use LF
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+
+# Keep images and binaries untouched
+*.png binary
+*.jpg binary
+*.zip binary
