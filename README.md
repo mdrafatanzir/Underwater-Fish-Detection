@@ -8,7 +8,7 @@ It is part of my Master's Thesis work at Åbo Akademi University.
 ## 📁 Project Structure
 
 Underwater Fish Detection/
-│
+
 ├── .dvc/                ← DVC config & cache linking
 ├── Experiments/         ← Training runs, configs, model results
 ├── Notebooks/           ← Jupyter notebooks for EDA & testing
