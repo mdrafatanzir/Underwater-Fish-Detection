@@ -6,6 +6,7 @@ It is part of my Master's Thesis work at Åbo Akademi University.
 ---
 
 ## 📁 Project Structure
+
 Underwater Fish Detection/
 │
 ├── .dvc/                ← DVC config & cache linking
